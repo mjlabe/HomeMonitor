@@ -99,3 +99,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#ignore DB
+*.sqlite3
+
+#.ignore files
+.idea/inspectionProfiles/
+.idea/workspace.xml
+templates/
